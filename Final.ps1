@@ -127,7 +127,7 @@ try {
   "author": "Ojayek Development Team",
   "license": "MIT",
   "dependencies": {
-    "@messari/sdk-ts": "^0.1.0",
+    "@messari/sdk": "^0.0.9",
     "express": "^4.18.2",
     "cors": "^2.8.5",
     "dotenv": "^16.3.1",
